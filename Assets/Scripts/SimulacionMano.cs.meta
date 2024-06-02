@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2815b99196df8de46b05a1f93da7ac63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cartaManager: {instanceID: 0}
+  - cartaSlotsTope: {instanceID: 0}
+  - mano: {instanceID: 0}
+  - tope: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

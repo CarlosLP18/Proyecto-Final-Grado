@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc554e545af39f40ac068a154eb0659, type: 3}
+  m_Name: 26_Azul_Saltar
+  m_EditorClassIdentifier: 
+  idCarta: 25
+  nombreCarta: Azul Saltar
+  spriteCarta: {fileID: 21300000, guid: a883112e38d33cf43a63e938ed4465d7, type: 3}
+  colorCarta: 1
+  tipoCarta: 1
+  valor: Saltar
+  peso: 5
